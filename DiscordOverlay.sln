@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31025.218
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DiscordOverlay", "DiscordOverlay\DiscordOverlay.csproj", "{DCF3EA5D-AF1F-4A73-BC53-D984DDA812A9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VSDiscordStatus", "VSDiscordStatus\VSDiscordStatus.csproj", "{5E1E06CC-1FC6-4A0E-9997-EF16653F824B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DCF3EA5D-AF1F-4A73-BC53-D984DDA812A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCF3EA5D-AF1F-4A73-BC53-D984DDA812A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCF3EA5D-AF1F-4A73-BC53-D984DDA812A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCF3EA5D-AF1F-4A73-BC53-D984DDA812A9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E1E06CC-1FC6-4A0E-9997-EF16653F824B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E1E06CC-1FC6-4A0E-9997-EF16653F824B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E1E06CC-1FC6-4A0E-9997-EF16653F824B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E1E06CC-1FC6-4A0E-9997-EF16653F824B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {01E640A8-E36C-42F2-8B08-F241FF019462}
+	EndGlobalSection
+EndGlobal
